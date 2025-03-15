@@ -2,6 +2,8 @@
 
 Welcome to **Fitsum AI**, your intelligent AI assistant designed to provide advanced coding support, AI solutions, and web development guidance. This project focuses on enhancing productivity with expert-level assistance in technologies like **JavaScript**, **React**, and more.
 
+
+
 ## 🌐 Live Demo
 Check out the live demo: [Fitsum AI](https://fitsumai.netlify.app/)
 
@@ -11,14 +13,14 @@ Check out the live demo: [Fitsum AI](https://fitsumai.netlify.app/)
 - **Interactive Chat**: Ask questions and receive real-time responses.
 - **File Upload Support**: Upload and analyze images, PDFs, text files, and CSV files.
 - **Smart Suggestions**: Explore prompts like JavaScript debugging, React components, and more.
-- **Customizable UI**: Switch between light and dark themes.
+- **Customizable UI**: Switch between **light and dark modes**.
 - **Local Services**: Available for AI-driven technical support in **Addis Ababa**.
 
 ## 📋 Usage
 1. **Ask Questions**: Enter your query in the input box (e.g., "How can I debug JavaScript code?").
 2. **Explore Suggestions**: Choose from smart prompt suggestions.
 3. **File Upload**: Attach documents to receive AI-powered insights.
-4. **Manage Chats**: Delete previous chats and toggle themes effortlessly.
+4. **Manage Chats**: Delete previous chats and toggle between **light and dark modes** effortlessly.
 
 ## 📊 Example Prompts
 - Design a home office setup for remote work under $500.
